@@ -10,8 +10,8 @@ Node, Express, MongoDB, JWT
 3. `npm install`  
 
 ### Create .env file in root directory  
-MONGODB_URI = mongo atlas connection string
-JWT_SECRET = JWT secret key
+1. MONGODB_URI = mongo atlas connection string
+2. JWT_SECRET = JWT secret key
 
 ### Start server  
 `npm run dev`
